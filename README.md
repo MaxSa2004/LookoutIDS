@@ -63,7 +63,15 @@ security monitoring purposes only.
 To be determined.
 
 ---
+<p align="center">
+  <img src="assets/logos/LookoutIDS_logo.png" alt="LookoutIDS" width="70">
+  <br>
+  <sub>
+    <i>Keep watch. Detect threats. Respond faster.</i>
+  </sub>
+</p>
 
+---
 <p align="center">
   <sub>
     Built with ☕ and 💻 by
