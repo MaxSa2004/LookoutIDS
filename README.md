@@ -33,6 +33,21 @@ and send real-time security alerts to Discord.
 - Event logging and analysis
 - Real-time Discord notifications
 
+## Development Plan
+
+LookoutIDS v1.0 is being developed in seven phases, progressing from environment
+setup to a fully documented network intrusion detection system.
+
+| Phase | Objective | Expected Result |
+|:---:|---|---|
+| 1 | Prepare Ubuntu and install the required tools | Working development environment |
+| 2 | Configure Suricata and inspect network traffic | IDS generating security events |
+| 3 | Build the Python event collector | LookoutIDS can process Suricata events |
+| 4 | Implement custom detection logic | LookoutIDS can identify selected suspicious behaviors |
+| 5 | Integrate Discord | Real-time security notifications |
+| 6 | Add SQLite, testing, and reliability features | Persistent, testable IDS application |
+| 7 | Document and demonstrate the project | Portfolio-ready GitHub repository |
+
 ## Architecture
 
 Coming soon.
@@ -44,14 +59,6 @@ Coming soon.
 ## Usage
 
 Coming soon.
-
-## Roadmap
-
-- [ ] Implement packet capture
-- [ ] Develop initial detection rules
-- [ ] Integrate Discord webhook notifications
-- [ ] Implement event logging
-- [ ] Add testing and documentation
 
 ## Disclaimer
 
