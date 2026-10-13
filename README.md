@@ -46,7 +46,8 @@ setup to a fully documented network intrusion detection system.
 | | 4 | Implement rule-based detection and machine learning | Detection of suspicious network activity using predefined rules and ML-based anomaly detection |
 | | 5 | Integrate Discord | Real-time security notifications |
 | | 6 | Add SQLite, testing, and reliability features | Persistent, testable IDS application |
-| | 7 | Document and demonstrate the project | Portfolio-ready GitHub repository |
+| | 7 | Develop a graphical user interface (GUI) | Interactive security monitoring dashboard |
+| | 8 | Document and demonstrate the project | Portfolio-ready GitHub repository |
 
 ## Architecture
 
