@@ -68,7 +68,12 @@ security monitoring purposes only.
 
 ## License
 
-To be determined.
+This project is available for **personal and educational evaluation only**.
+
+It is **not open source** and may not be copied, modified, redistributed,
+commercially used, or forked without prior written permission.
+
+See [LICENSE.txt](LICENSE.txt) for the full terms.
 
 ---
 <p align="center">
