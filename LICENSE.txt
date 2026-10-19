@@ -1,0 +1,24 @@
+Copyright (c) 2026 Maximiliano Sá
+
+Educational Viewing and Evaluation License
+
+Permission is granted to view and study this repository for personal,
+academic, and educational purposes only.
+
+You may:
+- View the source code.
+- Run the software in a personal or educational environment.
+- Reference the project in academic work, provided that credit is given.
+
+You may not, without prior written permission:
+- Copy or redistribute this repository or substantial portions of it.
+- Modify, adapt, or create derivative works.
+- Use the software for commercial purposes.
+- Publish forks, modified versions, or bundled copies.
+- Present the work as your own.
+
+This software is provided for educational evaluation only, without warranty
+of any kind. The copyright holder is not liable for any claim, damages, or
+other liability arising from the use of this software.
+
+For permission beyond these terms, contact the copyright holder.
